@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0750fe58123b43181560",
+    "revision": "ee37deca7c1d7d8b63f8",
     "url": "/todos-part-2/static/css/main.2ca97534.chunk.css"
   },
   {
-    "revision": "0750fe58123b43181560",
-    "url": "/todos-part-2/static/js/main.0750fe58.chunk.js"
+    "revision": "ee37deca7c1d7d8b63f8",
+    "url": "/todos-part-2/static/js/main.ee37deca.chunk.js"
   },
   {
     "revision": "1ce0cbf72445225d14a6",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/todos-part-2/static/js/runtime~main.56578612.js"
   },
   {
-    "revision": "fa0364eb3195d2ec4877cab250671515",
+    "revision": "686f86c0bcfc29f8be45ff6e26be4bdb",
     "url": "/todos-part-2/index.html"
   }
 ];
